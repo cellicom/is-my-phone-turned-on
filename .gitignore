@@ -1,0 +1,10 @@
+# Android
+build/
+*.iml
+.gradle
+.idea
+local.properties
+.DS_Store
+
+# Agent
+.agent/
