@@ -1,5 +1,6 @@
 # Android
 build/
+release/
 *.iml
 .gradle
 .idea
