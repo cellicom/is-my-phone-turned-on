@@ -17,8 +17,8 @@ A minimalist and lightweight Android application designed to answer the fundamen
 - **Language**: Kotlin
 - **UI Framework**: Traditional Android XML Views (Zero Jetpack Compose runtime overhead).
 - **Package Name**: `com.ismyphoneturnedon.cellicomsoft`
-- **Version**: `2.0.0`
-- **Target SDK**: 34 (Android 14)
+- **Version**: `2.0.1`
+- **Target SDK**: 35 (Android 15)
 - **Min SDK**: 24 (Android 7.0)
 
 ## Project Purpose

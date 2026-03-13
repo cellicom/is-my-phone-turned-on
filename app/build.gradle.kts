@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace = "com.ismyphoneturnedon.cellicomsoft"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.ismyphoneturnedon.cellicomsoft"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 20000
-        versionName = "2.0.0"
+        targetSdk = 35
+        versionCode = 20001
+        versionName = "2.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
